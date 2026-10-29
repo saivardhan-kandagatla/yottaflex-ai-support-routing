@@ -1,0 +1,878 @@
+[
+  {
+    "ticket_id": "TKT-2026-000009",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-01T09:15:00+00:00",
+    "occurred_at": "2026-01-01T00:22:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000009",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-01T13:00:00+00:00",
+    "occurred_at": "2026-01-01T00:50:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000090",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-01-01T13:34:00+00:00",
+    "occurred_at": "2026-01-01T14:07:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000090",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-01T14:33:00+00:00",
+    "occurred_at": "2026-01-01T14:21:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000081",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-01-01T23:25:00+00:00",
+    "occurred_at": "2026-01-01T23:43:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000081",
+    "event_type": "resolution_breached",
+    "deadline_at": "2026-01-02T07:15:00+00:00",
+    "occurred_at": "2026-01-02T09:28:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000085",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-05T13:00:00+00:00",
+    "occurred_at": "2026-01-02T23:26:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000001",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-05T09:15:00+00:00",
+    "occurred_at": "2026-01-04T09:18:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000001",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-05T13:00:00+00:00",
+    "occurred_at": "2026-01-04T09:19:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000030",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-01-04T13:28:00+00:00",
+    "occurred_at": "2026-01-04T13:56:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000030",
+    "event_type": "resolution_breached",
+    "deadline_at": "2026-01-04T21:18:00+00:00",
+    "occurred_at": "2026-01-04T23:29:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000010",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-06T13:00:00+00:00",
+    "occurred_at": "2026-01-05T22:38:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000100",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-07T10:21:00+00:00",
+    "occurred_at": "2026-01-06T15:17:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000056",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-08T14:19:00+00:00",
+    "occurred_at": "2026-01-08T13:04:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000057",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-13T11:55:00+00:00",
+    "occurred_at": "2026-01-08T14:18:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000027",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-09T10:00:00+00:00",
+    "occurred_at": "2026-01-08T23:37:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000027",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-09T17:00:00+00:00",
+    "occurred_at": "2026-01-08T23:57:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000088",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-10T10:45:00+00:00",
+    "occurred_at": "2026-01-10T10:19:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000088",
+    "event_type": "resolution_breached",
+    "deadline_at": "2026-01-11T09:45:00+00:00",
+    "occurred_at": "2026-01-11T14:33:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000052",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-01-12T15:42:00+00:00",
+    "occurred_at": "2026-01-12T15:45:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000052",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-12T19:27:00+00:00",
+    "occurred_at": "2026-01-12T16:23:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000074",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-13T17:00:00+00:00",
+    "occurred_at": "2026-01-13T06:59:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000077",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-13T13:00:00+00:00",
+    "occurred_at": "2026-01-13T06:48:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000014",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-01-13T09:46:00+00:00",
+    "occurred_at": "2026-01-13T09:57:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000014",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-13T10:45:00+00:00",
+    "occurred_at": "2026-01-13T10:45:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000078",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-14T09:15:00+00:00",
+    "occurred_at": "2026-01-13T21:51:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000082",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-01-14T14:19:00+00:00",
+    "occurred_at": "2026-01-14T14:27:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000089",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-14T18:17:00+00:00",
+    "occurred_at": "2026-01-14T17:57:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000089",
+    "event_type": "resolution_breached",
+    "deadline_at": "2026-01-15T17:17:00+00:00",
+    "occurred_at": "2026-01-15T22:24:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000032",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-16T13:23:00+00:00",
+    "occurred_at": "2026-01-16T00:27:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000045",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-15T16:48:00+00:00",
+    "occurred_at": "2026-01-15T16:41:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000045",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-16T12:33:00+00:00",
+    "occurred_at": "2026-01-15T18:14:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000035",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-16T13:00:00+00:00",
+    "occurred_at": "2026-01-16T07:52:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000035",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-20T17:00:00+00:00",
+    "occurred_at": "2026-01-16T18:35:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000019",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-19T17:00:00+00:00",
+    "occurred_at": "2026-01-17T23:05:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000019",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-26T17:00:00+00:00",
+    "occurred_at": "2026-01-18T05:53:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000018",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-18T04:05:00+00:00",
+    "occurred_at": "2026-01-18T03:41:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000018",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-19T03:05:00+00:00",
+    "occurred_at": "2026-01-18T09:43:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000067",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-19T10:00:00+00:00",
+    "occurred_at": "2026-01-18T06:26:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000095",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-19T17:00:00+00:00",
+    "occurred_at": "2026-01-19T11:21:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000053",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-22T15:08:00+00:00",
+    "occurred_at": "2026-01-21T16:49:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000072",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-01-21T22:02:00+00:00",
+    "occurred_at": "2026-01-21T22:10:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000072",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-22T05:52:00+00:00",
+    "occurred_at": "2026-01-22T05:25:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000031",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-23T13:00:00+00:00",
+    "occurred_at": "2026-01-23T08:33:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000034",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-23T12:20:00+00:00",
+    "occurred_at": "2026-01-23T12:06:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000034",
+    "event_type": "resolution_breached",
+    "deadline_at": "2026-01-23T19:50:00+00:00",
+    "occurred_at": "2026-01-23T23:10:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000091",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-02T17:00:00+00:00",
+    "occurred_at": "2026-01-25T09:39:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000079",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-26T17:00:00+00:00",
+    "occurred_at": "2026-01-24T16:09:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000022",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-24T17:14:00+00:00",
+    "occurred_at": "2026-01-24T16:48:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000033",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-01-25T07:48:00+00:00",
+    "occurred_at": "2026-01-25T07:54:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000033",
+    "event_type": "resolution_breached",
+    "deadline_at": "2026-01-25T15:38:00+00:00",
+    "occurred_at": "2026-01-25T18:35:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000007",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-27T17:00:00+00:00",
+    "occurred_at": "2026-01-27T01:52:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000007",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-03T17:00:00+00:00",
+    "occurred_at": "2026-01-27T04:14:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000011",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-27T12:54:00+00:00",
+    "occurred_at": "2026-01-27T09:04:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000060",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-01-27T09:12:00+00:00",
+    "occurred_at": "2026-01-27T09:18:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000060",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-27T17:02:00+00:00",
+    "occurred_at": "2026-01-27T12:36:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000008",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-01-29T04:43:00+00:00",
+    "occurred_at": "2026-01-29T05:04:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000006",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-01-30T09:15:00+00:00",
+    "occurred_at": "2026-01-29T18:35:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000006",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-01-30T13:00:00+00:00",
+    "occurred_at": "2026-01-29T18:48:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000073",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-03T17:00:00+00:00",
+    "occurred_at": "2026-02-03T01:54:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000087",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-04T17:39:00+00:00",
+    "occurred_at": "2026-02-04T17:26:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000063",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-05T23:36:00+00:00",
+    "occurred_at": "2026-02-05T20:12:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000083",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-02-06T10:00:00+00:00",
+    "occurred_at": "2026-02-06T01:42:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000083",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-06T17:00:00+00:00",
+    "occurred_at": "2026-02-06T04:51:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000003",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-02-06T10:00:00+00:00",
+    "occurred_at": "2026-02-06T06:17:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000003",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-06T17:00:00+00:00",
+    "occurred_at": "2026-02-06T07:15:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000055",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-02-06T17:00:00+00:00",
+    "occurred_at": "2026-02-06T16:40:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000071",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-02-09T13:00:00+00:00",
+    "occurred_at": "2026-02-07T03:26:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000071",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-11T17:00:00+00:00",
+    "occurred_at": "2026-02-07T10:14:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000093",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-02-08T15:37:00+00:00",
+    "occurred_at": "2026-02-08T15:30:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000093",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-08T19:22:00+00:00",
+    "occurred_at": "2026-02-08T18:02:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000098",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-09T18:15:00+00:00",
+    "occurred_at": "2026-02-09T18:04:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000099",
+    "event_type": "resolution_breached",
+    "deadline_at": "2026-02-12T00:55:00+00:00",
+    "occurred_at": "2026-02-12T09:12:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000039",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-02-11T04:30:00+00:00",
+    "occurred_at": "2026-02-11T04:06:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000039",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-12T03:30:00+00:00",
+    "occurred_at": "2026-02-11T16:47:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000097",
+    "event_type": "resolution_breached",
+    "deadline_at": "2026-02-12T04:55:00+00:00",
+    "occurred_at": "2026-02-12T12:34:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000020",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-02-11T13:00:00+00:00",
+    "occurred_at": "2026-02-11T07:30:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000020",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-13T17:00:00+00:00",
+    "occurred_at": "2026-02-11T13:55:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000023",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-02-11T15:34:00+00:00",
+    "occurred_at": "2026-02-11T16:01:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000023",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-11T16:29:00+00:00",
+    "occurred_at": "2026-02-11T16:25:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000065",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-02-11T22:30:00+00:00",
+    "occurred_at": "2026-02-11T22:31:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000065",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-11T23:29:00+00:00",
+    "occurred_at": "2026-02-11T22:50:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000037",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-02-12T16:03:00+00:00",
+    "occurred_at": "2026-02-12T16:14:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000037",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-12T19:58:00+00:00",
+    "occurred_at": "2026-02-12T16:45:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000044",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-02-12T20:42:00+00:00",
+    "occurred_at": "2026-02-12T20:40:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000064",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-02-16T13:00:00+00:00",
+    "occurred_at": "2026-02-14T23:35:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000021",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-02-17T10:27:00+00:00",
+    "occurred_at": "2026-02-16T15:03:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000021",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-19T14:27:00+00:00",
+    "occurred_at": "2026-02-16T21:33:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000059",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-02-20T13:00:00+00:00",
+    "occurred_at": "2026-02-20T06:34:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000059",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-24T17:00:00+00:00",
+    "occurred_at": "2026-02-20T09:31:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000026",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-02-23T10:00:00+00:00",
+    "occurred_at": "2026-02-21T06:01:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000026",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-23T17:00:00+00:00",
+    "occurred_at": "2026-02-21T06:56:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000029",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-25T17:00:00+00:00",
+    "occurred_at": "2026-02-23T01:53:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000036",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-02-23T13:09:00+00:00",
+    "occurred_at": "2026-02-23T13:20:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000036",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-02-23T16:54:00+00:00",
+    "occurred_at": "2026-02-23T14:03:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000096",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-02-23T18:06:00+00:00",
+    "occurred_at": "2026-02-23T18:08:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000080",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-02-27T13:16:00+00:00",
+    "occurred_at": "2026-02-27T13:12:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000080",
+    "event_type": "resolution_breached",
+    "deadline_at": "2026-02-27T21:06:00+00:00",
+    "occurred_at": "2026-02-27T23:11:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000016",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-03-03T13:58:00+00:00",
+    "occurred_at": "2026-03-03T10:10:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000016",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-06T09:58:00+00:00",
+    "occurred_at": "2026-03-03T15:29:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000076",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-03-04T23:16:00+00:00",
+    "occurred_at": "2026-03-04T23:17:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000076",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-05T03:11:00+00:00",
+    "occurred_at": "2026-03-05T00:31:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000066",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-03-08T06:55:00+00:00",
+    "occurred_at": "2026-03-08T06:15:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000066",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-09T05:55:00+00:00",
+    "occurred_at": "2026-03-09T03:45:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000084",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-03-08T16:57:00+00:00",
+    "occurred_at": "2026-03-08T17:22:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000084",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-08T17:52:00+00:00",
+    "occurred_at": "2026-03-08T17:31:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000004",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-11T17:00:00+00:00",
+    "occurred_at": "2026-03-09T03:59:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000094",
+    "event_type": "resolution_breached",
+    "deadline_at": "2026-03-09T18:54:00+00:00",
+    "occurred_at": "2026-03-10T01:07:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000062",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-03-10T13:00:00+00:00",
+    "occurred_at": "2026-03-09T22:21:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000062",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-12T17:00:00+00:00",
+    "occurred_at": "2026-03-10T02:11:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000042",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-03-10T20:41:00+00:00",
+    "occurred_at": "2026-03-10T20:31:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000061",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-03-12T13:00:00+00:00",
+    "occurred_at": "2026-03-12T02:37:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000061",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-16T17:00:00+00:00",
+    "occurred_at": "2026-03-12T05:36:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000013",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-03-12T16:10:00+00:00",
+    "occurred_at": "2026-03-12T15:22:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000013",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-13T15:10:00+00:00",
+    "occurred_at": "2026-03-12T15:59:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000015",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-03-13T13:14:00+00:00",
+    "occurred_at": "2026-03-13T13:25:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000015",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-13T16:59:00+00:00",
+    "occurred_at": "2026-03-13T13:26:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000048",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-03-14T12:54:00+00:00",
+    "occurred_at": "2026-03-14T13:01:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000048",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-14T13:53:00+00:00",
+    "occurred_at": "2026-03-14T13:27:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000070",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-03-16T10:00:00+00:00",
+    "occurred_at": "2026-03-14T15:15:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000070",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-16T17:00:00+00:00",
+    "occurred_at": "2026-03-14T17:44:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000024",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-03-16T10:00:00+00:00",
+    "occurred_at": "2026-03-15T04:14:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000024",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-16T17:00:00+00:00",
+    "occurred_at": "2026-03-15T04:39:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000047",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-16T14:14:00+00:00",
+    "occurred_at": "2026-03-16T06:03:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000012",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-03-16T09:15:00+00:00",
+    "occurred_at": "2026-03-15T18:40:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000012",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-16T13:00:00+00:00",
+    "occurred_at": "2026-03-15T18:47:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000092",
+    "event_type": "resolution_breached",
+    "deadline_at": "2026-03-16T21:23:00+00:00",
+    "occurred_at": "2026-03-17T03:16:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000075",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-03-18T10:00:00+00:00",
+    "occurred_at": "2026-03-17T21:14:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000041",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-03-18T05:45:00+00:00",
+    "occurred_at": "2026-03-18T05:40:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000041",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-19T05:30:00+00:00",
+    "occurred_at": "2026-03-18T19:32:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000040",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-03-19T13:36:00+00:00",
+    "occurred_at": "2026-03-19T13:54:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000040",
+    "event_type": "resolution_breached",
+    "deadline_at": "2026-03-19T21:26:00+00:00",
+    "occurred_at": "2026-03-20T02:47:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000068",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-03-20T17:00:00+00:00",
+    "occurred_at": "2026-03-19T19:12:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000038",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-03-20T10:00:00+00:00",
+    "occurred_at": "2026-03-19T19:02:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000038",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-20T17:00:00+00:00",
+    "occurred_at": "2026-03-19T19:43:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000005",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-03-21T22:48:00+00:00",
+    "occurred_at": "2026-03-21T23:07:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000005",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-22T02:33:00+00:00",
+    "occurred_at": "2026-03-22T00:53:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000028",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-25T07:53:00+00:00",
+    "occurred_at": "2026-03-24T17:48:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000050",
+    "event_type": "first_response_breached",
+    "deadline_at": "2026-03-26T00:06:00+00:00",
+    "occurred_at": "2026-03-26T00:09:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000050",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-26T03:51:00+00:00",
+    "occurred_at": "2026-03-26T01:27:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000051",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-03-26T13:00:00+00:00",
+    "occurred_at": "2026-03-26T01:42:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000051",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-30T17:00:00+00:00",
+    "occurred_at": "2026-03-26T01:43:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000049",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-03-30T13:00:00+00:00",
+    "occurred_at": "2026-03-27T17:56:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000049",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-04-01T17:00:00+00:00",
+    "occurred_at": "2026-03-28T09:40:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000058",
+    "event_type": "first_response_met",
+    "deadline_at": "2026-03-30T04:42:00+00:00",
+    "occurred_at": "2026-03-30T04:40:00+00:00"
+  },
+  {
+    "ticket_id": "TKT-2026-000058",
+    "event_type": "resolution_met",
+    "deadline_at": "2026-03-30T12:12:00+00:00",
+    "occurred_at": "2026-03-30T07:12:00+00:00"
+  }
+]

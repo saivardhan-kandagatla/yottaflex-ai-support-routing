@@ -1,0 +1,38 @@
+[
+  {
+    "priority_rule_id": "PR-payment",
+    "intent_name": "payment",
+    "required_priority": "high",
+    "rule_description": "Intent payment uses high priority in the baseline taxonomy."
+  },
+  {
+    "priority_rule_id": "PR-delivery",
+    "intent_name": "delivery",
+    "required_priority": "normal",
+    "rule_description": "Intent delivery uses normal priority in the baseline taxonomy."
+  },
+  {
+    "priority_rule_id": "PR-refund",
+    "intent_name": "refund",
+    "required_priority": "normal",
+    "rule_description": "Intent refund uses normal priority in the baseline taxonomy."
+  },
+  {
+    "priority_rule_id": "PR-technical",
+    "intent_name": "technical",
+    "required_priority": "high",
+    "rule_description": "Intent technical uses high priority in the baseline taxonomy."
+  },
+  {
+    "priority_rule_id": "PR-account",
+    "intent_name": "account",
+    "required_priority": "low",
+    "rule_description": "Intent account uses low priority in the baseline taxonomy."
+  },
+  {
+    "priority_rule_id": "PR-safety",
+    "intent_name": "safety",
+    "required_priority": "critical",
+    "rule_description": "Intent safety uses critical priority in the baseline taxonomy."
+  }
+]

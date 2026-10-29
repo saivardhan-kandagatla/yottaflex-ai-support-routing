@@ -1,0 +1,7 @@
+priority_rule_id,intent_name,required_priority,rule_description
+PR-payment,payment,high,Intent payment uses high priority in the baseline taxonomy.
+PR-delivery,delivery,normal,Intent delivery uses normal priority in the baseline taxonomy.
+PR-refund,refund,normal,Intent refund uses normal priority in the baseline taxonomy.
+PR-technical,technical,high,Intent technical uses high priority in the baseline taxonomy.
+PR-account,account,low,Intent account uses low priority in the baseline taxonomy.
+PR-safety,safety,critical,Intent safety uses critical priority in the baseline taxonomy.

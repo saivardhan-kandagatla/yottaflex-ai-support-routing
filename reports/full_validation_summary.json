@@ -1,0 +1,16 @@
+{
+  "data_directory": "data/full",
+  "counts": {
+    "customers": 15000,
+    "agents": 100,
+    "tickets": 30000,
+    "messages": 100000,
+    "assignments": 12582,
+    "sla_events": 30000,
+    "resolutions": 24623
+  },
+  "unassigned_tickets": 17418,
+  "max_observed_concurrent": 2,
+  "integrity_errors": [],
+  "passed": true
+}

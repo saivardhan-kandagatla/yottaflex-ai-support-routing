@@ -1,0 +1,102 @@
+[
+  {
+    "agent_id": "AGT-000001",
+    "name": "Agent 001",
+    "skills": "account|payment|refund|safety",
+    "languages": "en|ta|te",
+    "available": "true",
+    "max_concurrent": "4",
+    "shift_start_hour": "8",
+    "shift_end_hour": "18"
+  },
+  {
+    "agent_id": "AGT-000002",
+    "name": "Agent 002",
+    "skills": "delivery|refund|safety",
+    "languages": "hi|ta|te",
+    "available": "true",
+    "max_concurrent": "8",
+    "shift_start_hour": "8",
+    "shift_end_hour": "18"
+  },
+  {
+    "agent_id": "AGT-000003",
+    "name": "Agent 003",
+    "skills": "account|refund|technical",
+    "languages": "en|hi|te",
+    "available": "true",
+    "max_concurrent": "11",
+    "shift_start_hour": "8",
+    "shift_end_hour": "18"
+  },
+  {
+    "agent_id": "AGT-000004",
+    "name": "Agent 004",
+    "skills": "delivery|refund|safety|technical",
+    "languages": "en",
+    "available": "true",
+    "max_concurrent": "11",
+    "shift_start_hour": "8",
+    "shift_end_hour": "18"
+  },
+  {
+    "agent_id": "AGT-000005",
+    "name": "Agent 005",
+    "skills": "account|delivery|refund|safety",
+    "languages": "ta",
+    "available": "true",
+    "max_concurrent": "12",
+    "shift_start_hour": "8",
+    "shift_end_hour": "18"
+  },
+  {
+    "agent_id": "AGT-000006",
+    "name": "Agent 006",
+    "skills": "delivery|technical",
+    "languages": "es",
+    "available": "true",
+    "max_concurrent": "10",
+    "shift_start_hour": "8",
+    "shift_end_hour": "18"
+  },
+  {
+    "agent_id": "AGT-000007",
+    "name": "Agent 007",
+    "skills": "account|payment|refund|technical",
+    "languages": "en|te",
+    "available": "true",
+    "max_concurrent": "5",
+    "shift_start_hour": "8",
+    "shift_end_hour": "18"
+  },
+  {
+    "agent_id": "AGT-000008",
+    "name": "Agent 008",
+    "skills": "delivery|payment|refund|safety",
+    "languages": "ta|te",
+    "available": "true",
+    "max_concurrent": "11",
+    "shift_start_hour": "8",
+    "shift_end_hour": "18"
+  },
+  {
+    "agent_id": "AGT-000009",
+    "name": "Agent 009",
+    "skills": "account|safety",
+    "languages": "hi",
+    "available": "true",
+    "max_concurrent": "7",
+    "shift_start_hour": "8",
+    "shift_end_hour": "18"
+  },
+  {
+    "agent_id": "AGT-000010",
+    "name": "Agent 010",
+    "skills": "delivery|payment|safety",
+    "languages": "es|hi",
+    "available": "true",
+    "max_concurrent": "10",
+    "shift_start_hour": "8",
+    "shift_end_hour": "18"
+  }
+]

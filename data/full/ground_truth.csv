@@ -1,0 +1,6 @@
+case_id,issue_type,expected_behavior,is_deliberate_anomaly
+ANOM-001,agent_over_capacity,Reject assignment when agent is at max concurrent capacity,true
+ANOM-002,sla_calendar_mismatch,Flag SLA deadline calculated against the wrong channel calendar,true
+ANOM-003,reopen_history_lost,Reopening must append an event and preserve the prior resolution,true
+ANOM-004,transfer_loop,Detect repeated A-to-B-to-A ticket transfers,true
+ANOM-005,unsafe_priority,Critical safety intent must not be assigned low priority,true

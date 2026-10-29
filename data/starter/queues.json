@@ -1,0 +1,32 @@
+[
+  {
+    "queue_id": "QUE-PAYMENT",
+    "queue_name": "Payment Queue",
+    "intent_name": "payment"
+  },
+  {
+    "queue_id": "QUE-DELIVERY",
+    "queue_name": "Delivery Queue",
+    "intent_name": "delivery"
+  },
+  {
+    "queue_id": "QUE-REFUND",
+    "queue_name": "Refund Queue",
+    "intent_name": "refund"
+  },
+  {
+    "queue_id": "QUE-TECHNICAL",
+    "queue_name": "Technical Queue",
+    "intent_name": "technical"
+  },
+  {
+    "queue_id": "QUE-ACCOUNT",
+    "queue_name": "Account Queue",
+    "intent_name": "account"
+  },
+  {
+    "queue_id": "QUE-SAFETY",
+    "queue_name": "Safety Queue",
+    "intent_name": "safety"
+  }
+]

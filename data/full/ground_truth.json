@@ -1,0 +1,32 @@
+[
+  {
+    "case_id": "ANOM-001",
+    "issue_type": "agent_over_capacity",
+    "expected_behavior": "Reject assignment when agent is at max concurrent capacity",
+    "is_deliberate_anomaly": "true"
+  },
+  {
+    "case_id": "ANOM-002",
+    "issue_type": "sla_calendar_mismatch",
+    "expected_behavior": "Flag SLA deadline calculated against the wrong channel calendar",
+    "is_deliberate_anomaly": "true"
+  },
+  {
+    "case_id": "ANOM-003",
+    "issue_type": "reopen_history_lost",
+    "expected_behavior": "Reopening must append an event and preserve the prior resolution",
+    "is_deliberate_anomaly": "true"
+  },
+  {
+    "case_id": "ANOM-004",
+    "issue_type": "transfer_loop",
+    "expected_behavior": "Detect repeated A-to-B-to-A ticket transfers",
+    "is_deliberate_anomaly": "true"
+  },
+  {
+    "case_id": "ANOM-005",
+    "issue_type": "unsafe_priority",
+    "expected_behavior": "Critical safety intent must not be assigned low priority",
+    "is_deliberate_anomaly": "true"
+  }
+]

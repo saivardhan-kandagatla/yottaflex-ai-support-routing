@@ -1,0 +1,7 @@
+intent_id,intent_name
+INT-payment,payment
+INT-delivery,delivery
+INT-refund,refund
+INT-technical,technical
+INT-account,account
+INT-safety,safety

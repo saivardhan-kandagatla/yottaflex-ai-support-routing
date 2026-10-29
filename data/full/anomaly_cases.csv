@@ -1,0 +1,6 @@
+case_id,issue_type,observed_condition,details
+ANOM-001,agent_over_capacity,active_count_exceeds_capacity,capacity=4;active_count=5
+ANOM-002,sla_calendar_mismatch,email_deadline_uses_elapsed_time,channel=email;calendar=business_hours;deadline_method=elapsed_time
+ANOM-003,reopen_history_lost,reopen_without_prior_resolution_event,prior_resolution_exists=true;resolution_event_preserved=false
+ANOM-004,transfer_loop,agent_sequence_repeats,agent_sequence=AGT-001|AGT-002|AGT-001
+ANOM-005,unsafe_priority,safety_intent_has_low_priority,intent=safety;priority=low;required_priority=critical

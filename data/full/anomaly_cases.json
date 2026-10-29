@@ -1,0 +1,32 @@
+[
+  {
+    "case_id": "ANOM-001",
+    "issue_type": "agent_over_capacity",
+    "observed_condition": "active_count_exceeds_capacity",
+    "details": "capacity=4;active_count=5"
+  },
+  {
+    "case_id": "ANOM-002",
+    "issue_type": "sla_calendar_mismatch",
+    "observed_condition": "email_deadline_uses_elapsed_time",
+    "details": "channel=email;calendar=business_hours;deadline_method=elapsed_time"
+  },
+  {
+    "case_id": "ANOM-003",
+    "issue_type": "reopen_history_lost",
+    "observed_condition": "reopen_without_prior_resolution_event",
+    "details": "prior_resolution_exists=true;resolution_event_preserved=false"
+  },
+  {
+    "case_id": "ANOM-004",
+    "issue_type": "transfer_loop",
+    "observed_condition": "agent_sequence_repeats",
+    "details": "agent_sequence=AGT-001|AGT-002|AGT-001"
+  },
+  {
+    "case_id": "ANOM-005",
+    "issue_type": "unsafe_priority",
+    "observed_condition": "safety_intent_has_low_priority",
+    "details": "intent=safety;priority=low;required_priority=critical"
+  }
+]

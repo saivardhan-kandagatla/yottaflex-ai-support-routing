@@ -1,0 +1,20 @@
+{
+  "seed": 20261022,
+  "mode": "full",
+  "tickets": 30000,
+  "agents": 100,
+  "messages": 100000,
+  "customers": 15000,
+  "assignments": 719,
+  "sla_events": 30000,
+  "resolutions": 24623,
+  "integration": {
+    "tickets": 30000,
+    "assignments": 12582,
+    "ticket_events": 74538,
+    "sla_records": 30000,
+    "sla_audit_events": 25268,
+    "unassigned_tickets": 17418
+  },
+  "note": "Integrated synthetic data; SLA defaults are illustrative and must be aligned to the challenge specification."
+}

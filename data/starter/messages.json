@@ -1,0 +1,2702 @@
+[
+  {
+    "message_id": "MSG-TKT-2026-000001-001",
+    "ticket_id": "TKT-2026-000001",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-04T08:46:00+00:00",
+    "body": "Synthetic safety support message 1 for TKT-2026-000001."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000001-002",
+    "ticket_id": "TKT-2026-000001",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "es",
+    "sent_at": "2026-01-04T09:18:00+00:00",
+    "body": "Synthetic safety support message 2 for TKT-2026-000001."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000002-001",
+    "ticket_id": "TKT-2026-000002",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-03-12T22:57:00+00:00",
+    "body": "Synthetic delivery support message 1 for TKT-2026-000002."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000003-001",
+    "ticket_id": "TKT-2026-000003",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-06T06:16:00+00:00",
+    "body": "Synthetic payment support message 1 for TKT-2026-000003."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000003-002",
+    "ticket_id": "TKT-2026-000003",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "es",
+    "sent_at": "2026-02-06T06:17:00+00:00",
+    "body": "Synthetic payment support message 2 for TKT-2026-000003."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000003-003",
+    "ticket_id": "TKT-2026-000003",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-06T06:46:00+00:00",
+    "body": "Synthetic payment support message 3 for TKT-2026-000003."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000004-001",
+    "ticket_id": "TKT-2026-000004",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-09T02:28:00+00:00",
+    "body": "Synthetic delivery support message 1 for TKT-2026-000004."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000005-001",
+    "ticket_id": "TKT-2026-000005",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-03-21T22:34:00+00:00",
+    "body": "Synthetic technical support message 1 for TKT-2026-000005."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000005-002",
+    "ticket_id": "TKT-2026-000005",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "te",
+    "sent_at": "2026-03-21T23:07:00+00:00",
+    "body": "Synthetic technical support message 2 for TKT-2026-000005."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000005-003",
+    "ticket_id": "TKT-2026-000005",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-03-21T22:39:00+00:00",
+    "body": "Synthetic technical support message 3 for TKT-2026-000005."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000006-001",
+    "ticket_id": "TKT-2026-000006",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-01-29T18:22:00+00:00",
+    "body": "Synthetic safety support message 1 for TKT-2026-000006."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000006-002",
+    "ticket_id": "TKT-2026-000006",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "ta",
+    "sent_at": "2026-01-29T18:39:00+00:00",
+    "body": "Synthetic safety support message 2 for TKT-2026-000006."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000006-003",
+    "ticket_id": "TKT-2026-000006",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-01-29T18:47:00+00:00",
+    "body": "Synthetic safety support message 3 for TKT-2026-000006."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000006-004",
+    "ticket_id": "TKT-2026-000006",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "ta",
+    "sent_at": "2026-01-29T18:35:00+00:00",
+    "body": "Synthetic safety support message 4 for TKT-2026-000006."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000007-001",
+    "ticket_id": "TKT-2026-000007",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-27T01:27:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000007."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000007-002",
+    "ticket_id": "TKT-2026-000007",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-01-27T01:52:00+00:00",
+    "body": "Synthetic account support message 2 for TKT-2026-000007."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000007-003",
+    "ticket_id": "TKT-2026-000007",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-27T02:12:00+00:00",
+    "body": "Synthetic account support message 3 for TKT-2026-000007."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000007-004",
+    "ticket_id": "TKT-2026-000007",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-01-27T02:32:00+00:00",
+    "body": "Synthetic account support message 4 for TKT-2026-000007."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000007-005",
+    "ticket_id": "TKT-2026-000007",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-27T02:37:00+00:00",
+    "body": "Synthetic account support message 5 for TKT-2026-000007."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000008-001",
+    "ticket_id": "TKT-2026-000008",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-01-29T04:44:00+00:00",
+    "body": "Synthetic technical support message 1 for TKT-2026-000008."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000008-002",
+    "ticket_id": "TKT-2026-000008",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-01-29T05:04:00+00:00",
+    "body": "Synthetic technical support message 2 for TKT-2026-000008."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000008-003",
+    "ticket_id": "TKT-2026-000008",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-01-29T05:05:00+00:00",
+    "body": "Synthetic technical support message 3 for TKT-2026-000008."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000008-004",
+    "ticket_id": "TKT-2026-000008",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-01-29T05:42:00+00:00",
+    "body": "Synthetic technical support message 4 for TKT-2026-000008."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000008-005",
+    "ticket_id": "TKT-2026-000008",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-01-29T04:48:00+00:00",
+    "body": "Synthetic technical support message 5 for TKT-2026-000008."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000009-001",
+    "ticket_id": "TKT-2026-000009",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-01-01T00:22:00+00:00",
+    "body": "Synthetic safety support message 1 for TKT-2026-000009."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000009-002",
+    "ticket_id": "TKT-2026-000009",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "te",
+    "sent_at": "2026-01-01T00:22:00+00:00",
+    "body": "Synthetic safety support message 2 for TKT-2026-000009."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000009-003",
+    "ticket_id": "TKT-2026-000009",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-01-01T00:49:00+00:00",
+    "body": "Synthetic safety support message 3 for TKT-2026-000009."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000010-001",
+    "ticket_id": "TKT-2026-000010",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-05T22:08:00+00:00",
+    "body": "Synthetic delivery support message 1 for TKT-2026-000010."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000010-002",
+    "ticket_id": "TKT-2026-000010",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-01-05T22:38:00+00:00",
+    "body": "Synthetic delivery support message 2 for TKT-2026-000010."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000011-001",
+    "ticket_id": "TKT-2026-000011",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-01-27T04:55:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000011."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000012-001",
+    "ticket_id": "TKT-2026-000012",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-03-15T18:34:00+00:00",
+    "body": "Synthetic safety support message 1 for TKT-2026-000012."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000012-002",
+    "ticket_id": "TKT-2026-000012",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "ta",
+    "sent_at": "2026-03-15T18:40:00+00:00",
+    "body": "Synthetic safety support message 2 for TKT-2026-000012."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000012-003",
+    "ticket_id": "TKT-2026-000012",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-03-15T18:31:00+00:00",
+    "body": "Synthetic safety support message 3 for TKT-2026-000012."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000012-004",
+    "ticket_id": "TKT-2026-000012",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "ta",
+    "sent_at": "2026-03-15T18:46:00+00:00",
+    "body": "Synthetic safety support message 4 for TKT-2026-000012."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000013-001",
+    "ticket_id": "TKT-2026-000013",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-03-12T15:25:00+00:00",
+    "body": "Synthetic technical support message 1 for TKT-2026-000013."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000013-002",
+    "ticket_id": "TKT-2026-000013",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-03-12T15:22:00+00:00",
+    "body": "Synthetic technical support message 2 for TKT-2026-000013."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000013-003",
+    "ticket_id": "TKT-2026-000013",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-03-12T15:49:00+00:00",
+    "body": "Synthetic technical support message 3 for TKT-2026-000013."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000014-001",
+    "ticket_id": "TKT-2026-000014",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-13T09:49:00+00:00",
+    "body": "Synthetic safety support message 1 for TKT-2026-000014."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000014-002",
+    "ticket_id": "TKT-2026-000014",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "es",
+    "sent_at": "2026-01-13T09:57:00+00:00",
+    "body": "Synthetic safety support message 2 for TKT-2026-000014."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000014-003",
+    "ticket_id": "TKT-2026-000014",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-13T10:42:00+00:00",
+    "body": "Synthetic safety support message 3 for TKT-2026-000014."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000014-004",
+    "ticket_id": "TKT-2026-000014",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "es",
+    "sent_at": "2026-01-13T09:57:00+00:00",
+    "body": "Synthetic safety support message 4 for TKT-2026-000014."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000015-001",
+    "ticket_id": "TKT-2026-000015",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-03-13T13:01:00+00:00",
+    "body": "Synthetic safety support message 1 for TKT-2026-000015."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000015-002",
+    "ticket_id": "TKT-2026-000015",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-03-13T13:25:00+00:00",
+    "body": "Synthetic safety support message 2 for TKT-2026-000015."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000016-001",
+    "ticket_id": "TKT-2026-000016",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-03-03T10:04:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000016."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000016-002",
+    "ticket_id": "TKT-2026-000016",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-03-03T10:10:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000016."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000016-003",
+    "ticket_id": "TKT-2026-000016",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-03-03T10:04:00+00:00",
+    "body": "Synthetic refund support message 3 for TKT-2026-000016."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000016-004",
+    "ticket_id": "TKT-2026-000016",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-03-03T10:10:00+00:00",
+    "body": "Synthetic refund support message 4 for TKT-2026-000016."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000017-001",
+    "ticket_id": "TKT-2026-000017",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-09T08:58:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000017."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000017-002",
+    "ticket_id": "TKT-2026-000017",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-09T09:08:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000017."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000017-003",
+    "ticket_id": "TKT-2026-000017",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-09T09:17:00+00:00",
+    "body": "Synthetic refund support message 3 for TKT-2026-000017."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000017-004",
+    "ticket_id": "TKT-2026-000017",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-09T09:48:00+00:00",
+    "body": "Synthetic refund support message 4 for TKT-2026-000017."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000017-005",
+    "ticket_id": "TKT-2026-000017",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-09T09:41:00+00:00",
+    "body": "Synthetic refund support message 5 for TKT-2026-000017."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000018-001",
+    "ticket_id": "TKT-2026-000018",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-18T03:13:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000018."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000018-002",
+    "ticket_id": "TKT-2026-000018",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-01-18T03:41:00+00:00",
+    "body": "Synthetic account support message 2 for TKT-2026-000018."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000018-003",
+    "ticket_id": "TKT-2026-000018",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-18T03:26:00+00:00",
+    "body": "Synthetic account support message 3 for TKT-2026-000018."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000019-001",
+    "ticket_id": "TKT-2026-000019",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-01-17T23:13:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000019."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000019-002",
+    "ticket_id": "TKT-2026-000019",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "ta",
+    "sent_at": "2026-01-17T23:05:00+00:00",
+    "body": "Synthetic account support message 2 for TKT-2026-000019."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000019-003",
+    "ticket_id": "TKT-2026-000019",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-01-17T23:09:00+00:00",
+    "body": "Synthetic account support message 3 for TKT-2026-000019."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000019-004",
+    "ticket_id": "TKT-2026-000019",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "ta",
+    "sent_at": "2026-01-17T23:59:00+00:00",
+    "body": "Synthetic account support message 4 for TKT-2026-000019."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000020-001",
+    "ticket_id": "TKT-2026-000020",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-02-11T07:15:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000020."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000020-002",
+    "ticket_id": "TKT-2026-000020",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "te",
+    "sent_at": "2026-02-11T07:30:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000020."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000021-001",
+    "ticket_id": "TKT-2026-000021",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-02-16T14:29:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000021."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000021-002",
+    "ticket_id": "TKT-2026-000021",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-02-16T15:03:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000021."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000022-001",
+    "ticket_id": "TKT-2026-000022",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-01-24T16:21:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000022."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000022-002",
+    "ticket_id": "TKT-2026-000022",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-01-24T16:48:00+00:00",
+    "body": "Synthetic account support message 2 for TKT-2026-000022."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000023-001",
+    "ticket_id": "TKT-2026-000023",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-11T15:34:00+00:00",
+    "body": "Synthetic safety support message 1 for TKT-2026-000023."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000023-002",
+    "ticket_id": "TKT-2026-000023",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-02-11T16:01:00+00:00",
+    "body": "Synthetic safety support message 2 for TKT-2026-000023."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000023-003",
+    "ticket_id": "TKT-2026-000023",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-11T15:44:00+00:00",
+    "body": "Synthetic safety support message 3 for TKT-2026-000023."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000023-004",
+    "ticket_id": "TKT-2026-000023",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-02-11T16:09:00+00:00",
+    "body": "Synthetic safety support message 4 for TKT-2026-000023."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000024-001",
+    "ticket_id": "TKT-2026-000024",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-03-15T03:53:00+00:00",
+    "body": "Synthetic technical support message 1 for TKT-2026-000024."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000024-002",
+    "ticket_id": "TKT-2026-000024",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-03-15T04:14:00+00:00",
+    "body": "Synthetic technical support message 2 for TKT-2026-000024."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000024-003",
+    "ticket_id": "TKT-2026-000024",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-03-15T04:18:00+00:00",
+    "body": "Synthetic technical support message 3 for TKT-2026-000024."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000024-004",
+    "ticket_id": "TKT-2026-000024",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-03-15T04:38:00+00:00",
+    "body": "Synthetic technical support message 4 for TKT-2026-000024."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000025-001",
+    "ticket_id": "TKT-2026-000025",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-27T06:30:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000025."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000026-001",
+    "ticket_id": "TKT-2026-000026",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-21T06:03:00+00:00",
+    "body": "Synthetic payment support message 1 for TKT-2026-000026."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000026-002",
+    "ticket_id": "TKT-2026-000026",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "es",
+    "sent_at": "2026-02-21T06:01:00+00:00",
+    "body": "Synthetic payment support message 2 for TKT-2026-000026."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000026-003",
+    "ticket_id": "TKT-2026-000026",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-21T06:45:00+00:00",
+    "body": "Synthetic payment support message 3 for TKT-2026-000026."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000026-004",
+    "ticket_id": "TKT-2026-000026",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "es",
+    "sent_at": "2026-02-21T06:13:00+00:00",
+    "body": "Synthetic payment support message 4 for TKT-2026-000026."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000026-005",
+    "ticket_id": "TKT-2026-000026",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-21T06:55:00+00:00",
+    "body": "Synthetic payment support message 5 for TKT-2026-000026."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000027-001",
+    "ticket_id": "TKT-2026-000027",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-08T23:15:00+00:00",
+    "body": "Synthetic payment support message 1 for TKT-2026-000027."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000027-002",
+    "ticket_id": "TKT-2026-000027",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "es",
+    "sent_at": "2026-01-08T23:37:00+00:00",
+    "body": "Synthetic payment support message 2 for TKT-2026-000027."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000028-001",
+    "ticket_id": "TKT-2026-000028",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-24T08:10:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000028."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000029-001",
+    "ticket_id": "TKT-2026-000029",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-22T16:34:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000029."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000029-002",
+    "ticket_id": "TKT-2026-000029",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-22T16:53:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000029."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000029-003",
+    "ticket_id": "TKT-2026-000029",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-22T16:39:00+00:00",
+    "body": "Synthetic refund support message 3 for TKT-2026-000029."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000029-004",
+    "ticket_id": "TKT-2026-000029",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-22T16:31:00+00:00",
+    "body": "Synthetic refund support message 4 for TKT-2026-000029."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000030-001",
+    "ticket_id": "TKT-2026-000030",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-01-04T13:37:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000030."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000030-002",
+    "ticket_id": "TKT-2026-000030",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-01-04T13:56:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000030."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000031-001",
+    "ticket_id": "TKT-2026-000031",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-01-23T08:28:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000031."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000031-002",
+    "ticket_id": "TKT-2026-000031",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-01-23T08:33:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000031."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000032-001",
+    "ticket_id": "TKT-2026-000032",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-15T13:24:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000032."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000032-002",
+    "ticket_id": "TKT-2026-000032",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-15T14:01:00+00:00",
+    "body": "Synthetic account support message 2 for TKT-2026-000032."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000033-001",
+    "ticket_id": "TKT-2026-000033",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-25T07:56:00+00:00",
+    "body": "Synthetic delivery support message 1 for TKT-2026-000033."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000033-002",
+    "ticket_id": "TKT-2026-000033",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "es",
+    "sent_at": "2026-01-25T07:54:00+00:00",
+    "body": "Synthetic delivery support message 2 for TKT-2026-000033."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000033-003",
+    "ticket_id": "TKT-2026-000033",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-25T08:05:00+00:00",
+    "body": "Synthetic delivery support message 3 for TKT-2026-000033."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000034-001",
+    "ticket_id": "TKT-2026-000034",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-23T11:52:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000034."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000034-002",
+    "ticket_id": "TKT-2026-000034",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-01-23T12:06:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000034."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000034-003",
+    "ticket_id": "TKT-2026-000034",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-23T12:32:00+00:00",
+    "body": "Synthetic refund support message 3 for TKT-2026-000034."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000035-001",
+    "ticket_id": "TKT-2026-000035",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-16T07:31:00+00:00",
+    "body": "Synthetic delivery support message 1 for TKT-2026-000035."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000035-002",
+    "ticket_id": "TKT-2026-000035",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-01-16T07:52:00+00:00",
+    "body": "Synthetic delivery support message 2 for TKT-2026-000035."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000035-003",
+    "ticket_id": "TKT-2026-000035",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-16T08:11:00+00:00",
+    "body": "Synthetic delivery support message 3 for TKT-2026-000035."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000036-001",
+    "ticket_id": "TKT-2026-000036",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-23T12:58:00+00:00",
+    "body": "Synthetic technical support message 1 for TKT-2026-000036."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000036-002",
+    "ticket_id": "TKT-2026-000036",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-02-23T13:20:00+00:00",
+    "body": "Synthetic technical support message 2 for TKT-2026-000036."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000036-003",
+    "ticket_id": "TKT-2026-000036",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-23T13:18:00+00:00",
+    "body": "Synthetic technical support message 3 for TKT-2026-000036."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000036-004",
+    "ticket_id": "TKT-2026-000036",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-02-23T14:02:00+00:00",
+    "body": "Synthetic technical support message 4 for TKT-2026-000036."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000037-001",
+    "ticket_id": "TKT-2026-000037",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-12T16:12:00+00:00",
+    "body": "Synthetic technical support message 1 for TKT-2026-000037."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000037-002",
+    "ticket_id": "TKT-2026-000037",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-02-12T16:14:00+00:00",
+    "body": "Synthetic technical support message 2 for TKT-2026-000037."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000037-003",
+    "ticket_id": "TKT-2026-000037",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-12T16:10:00+00:00",
+    "body": "Synthetic technical support message 3 for TKT-2026-000037."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000038-001",
+    "ticket_id": "TKT-2026-000038",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-03-19T18:41:00+00:00",
+    "body": "Synthetic payment support message 1 for TKT-2026-000038."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000038-002",
+    "ticket_id": "TKT-2026-000038",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "ta",
+    "sent_at": "2026-03-19T19:02:00+00:00",
+    "body": "Synthetic payment support message 2 for TKT-2026-000038."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000038-003",
+    "ticket_id": "TKT-2026-000038",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-03-19T18:47:00+00:00",
+    "body": "Synthetic payment support message 3 for TKT-2026-000038."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000038-004",
+    "ticket_id": "TKT-2026-000038",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "ta",
+    "sent_at": "2026-03-19T19:42:00+00:00",
+    "body": "Synthetic payment support message 4 for TKT-2026-000038."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000039-001",
+    "ticket_id": "TKT-2026-000039",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-02-11T03:32:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000039."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000039-002",
+    "ticket_id": "TKT-2026-000039",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "ta",
+    "sent_at": "2026-02-11T04:06:00+00:00",
+    "body": "Synthetic account support message 2 for TKT-2026-000039."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000039-003",
+    "ticket_id": "TKT-2026-000039",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-02-11T03:57:00+00:00",
+    "body": "Synthetic account support message 3 for TKT-2026-000039."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000040-001",
+    "ticket_id": "TKT-2026-000040",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-03-19T13:38:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000040."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000040-002",
+    "ticket_id": "TKT-2026-000040",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "te",
+    "sent_at": "2026-03-19T14:02:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000040."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000040-003",
+    "ticket_id": "TKT-2026-000040",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-03-19T14:17:00+00:00",
+    "body": "Synthetic refund support message 3 for TKT-2026-000040."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000040-004",
+    "ticket_id": "TKT-2026-000040",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "te",
+    "sent_at": "2026-03-19T13:54:00+00:00",
+    "body": "Synthetic refund support message 4 for TKT-2026-000040."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000040-005",
+    "ticket_id": "TKT-2026-000040",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-03-19T14:11:00+00:00",
+    "body": "Synthetic refund support message 5 for TKT-2026-000040."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000041-001",
+    "ticket_id": "TKT-2026-000041",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-03-18T05:46:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000041."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000041-002",
+    "ticket_id": "TKT-2026-000041",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-03-18T05:40:00+00:00",
+    "body": "Synthetic account support message 2 for TKT-2026-000041."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000042-001",
+    "ticket_id": "TKT-2026-000042",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-03-10T20:17:00+00:00",
+    "body": "Synthetic delivery support message 1 for TKT-2026-000042."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000042-002",
+    "ticket_id": "TKT-2026-000042",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-03-10T20:31:00+00:00",
+    "body": "Synthetic delivery support message 2 for TKT-2026-000042."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000042-003",
+    "ticket_id": "TKT-2026-000042",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-03-10T20:32:00+00:00",
+    "body": "Synthetic delivery support message 3 for TKT-2026-000042."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000043-001",
+    "ticket_id": "TKT-2026-000043",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-16T17:49:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000043."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000043-002",
+    "ticket_id": "TKT-2026-000043",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-16T17:49:00+00:00",
+    "body": "Synthetic account support message 2 for TKT-2026-000043."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000043-003",
+    "ticket_id": "TKT-2026-000043",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-16T17:44:00+00:00",
+    "body": "Synthetic account support message 3 for TKT-2026-000043."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000043-004",
+    "ticket_id": "TKT-2026-000043",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-16T17:45:00+00:00",
+    "body": "Synthetic account support message 4 for TKT-2026-000043."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000044-001",
+    "ticket_id": "TKT-2026-000044",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-12T20:44:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000044."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000044-002",
+    "ticket_id": "TKT-2026-000044",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-02-12T20:40:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000044."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000044-003",
+    "ticket_id": "TKT-2026-000044",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-12T20:44:00+00:00",
+    "body": "Synthetic refund support message 3 for TKT-2026-000044."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000045-001",
+    "ticket_id": "TKT-2026-000045",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-15T16:46:00+00:00",
+    "body": "Synthetic safety support message 1 for TKT-2026-000045."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000045-002",
+    "ticket_id": "TKT-2026-000045",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-01-15T16:41:00+00:00",
+    "body": "Synthetic safety support message 2 for TKT-2026-000045."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000045-003",
+    "ticket_id": "TKT-2026-000045",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-15T16:45:00+00:00",
+    "body": "Synthetic safety support message 3 for TKT-2026-000045."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000045-004",
+    "ticket_id": "TKT-2026-000045",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-01-15T17:37:00+00:00",
+    "body": "Synthetic safety support message 4 for TKT-2026-000045."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000045-005",
+    "ticket_id": "TKT-2026-000045",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-15T18:13:00+00:00",
+    "body": "Synthetic safety support message 5 for TKT-2026-000045."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000045-006",
+    "ticket_id": "TKT-2026-000045",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-01-15T17:03:00+00:00",
+    "body": "Synthetic safety support message 6 for TKT-2026-000045."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000046-001",
+    "ticket_id": "TKT-2026-000046",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-31T19:53:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000046."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000046-002",
+    "ticket_id": "TKT-2026-000046",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-31T19:41:00+00:00",
+    "body": "Synthetic account support message 2 for TKT-2026-000046."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000046-003",
+    "ticket_id": "TKT-2026-000046",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-31T19:38:00+00:00",
+    "body": "Synthetic account support message 3 for TKT-2026-000046."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000046-004",
+    "ticket_id": "TKT-2026-000046",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-31T20:51:00+00:00",
+    "body": "Synthetic account support message 4 for TKT-2026-000046."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000046-005",
+    "ticket_id": "TKT-2026-000046",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-31T19:50:00+00:00",
+    "body": "Synthetic account support message 5 for TKT-2026-000046."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000046-006",
+    "ticket_id": "TKT-2026-000046",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-31T20:47:00+00:00",
+    "body": "Synthetic account support message 6 for TKT-2026-000046."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000047-001",
+    "ticket_id": "TKT-2026-000047",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-15T14:22:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000047."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000047-002",
+    "ticket_id": "TKT-2026-000047",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-15T14:28:00+00:00",
+    "body": "Synthetic account support message 2 for TKT-2026-000047."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000047-003",
+    "ticket_id": "TKT-2026-000047",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-15T14:20:00+00:00",
+    "body": "Synthetic account support message 3 for TKT-2026-000047."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000047-004",
+    "ticket_id": "TKT-2026-000047",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-15T14:42:00+00:00",
+    "body": "Synthetic account support message 4 for TKT-2026-000047."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000047-005",
+    "ticket_id": "TKT-2026-000047",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-15T14:44:00+00:00",
+    "body": "Synthetic account support message 5 for TKT-2026-000047."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000047-006",
+    "ticket_id": "TKT-2026-000047",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-15T15:20:00+00:00",
+    "body": "Synthetic account support message 6 for TKT-2026-000047."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000047-007",
+    "ticket_id": "TKT-2026-000047",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-15T15:10:00+00:00",
+    "body": "Synthetic account support message 7 for TKT-2026-000047."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000048-001",
+    "ticket_id": "TKT-2026-000048",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-03-14T13:12:00+00:00",
+    "body": "Synthetic safety support message 1 for TKT-2026-000048."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000048-002",
+    "ticket_id": "TKT-2026-000048",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-03-14T13:01:00+00:00",
+    "body": "Synthetic safety support message 2 for TKT-2026-000048."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000048-003",
+    "ticket_id": "TKT-2026-000048",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-03-14T13:02:00+00:00",
+    "body": "Synthetic safety support message 3 for TKT-2026-000048."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000049-001",
+    "ticket_id": "TKT-2026-000049",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-03-27T18:01:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000049."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000049-002",
+    "ticket_id": "TKT-2026-000049",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-03-27T17:56:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000049."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000049-003",
+    "ticket_id": "TKT-2026-000049",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-03-27T17:51:00+00:00",
+    "body": "Synthetic refund support message 3 for TKT-2026-000049."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000050-001",
+    "ticket_id": "TKT-2026-000050",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-03-25T23:55:00+00:00",
+    "body": "Synthetic payment support message 1 for TKT-2026-000050."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000050-002",
+    "ticket_id": "TKT-2026-000050",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "ta",
+    "sent_at": "2026-03-26T00:09:00+00:00",
+    "body": "Synthetic payment support message 2 for TKT-2026-000050."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000050-003",
+    "ticket_id": "TKT-2026-000050",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-03-26T00:00:00+00:00",
+    "body": "Synthetic payment support message 3 for TKT-2026-000050."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000050-004",
+    "ticket_id": "TKT-2026-000050",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "ta",
+    "sent_at": "2026-03-26T00:31:00+00:00",
+    "body": "Synthetic payment support message 4 for TKT-2026-000050."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000050-005",
+    "ticket_id": "TKT-2026-000050",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-03-26T01:26:00+00:00",
+    "body": "Synthetic payment support message 5 for TKT-2026-000050."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000051-001",
+    "ticket_id": "TKT-2026-000051",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-03-26T01:21:00+00:00",
+    "body": "Synthetic delivery support message 1 for TKT-2026-000051."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000051-002",
+    "ticket_id": "TKT-2026-000051",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-03-26T01:42:00+00:00",
+    "body": "Synthetic delivery support message 2 for TKT-2026-000051."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000052-001",
+    "ticket_id": "TKT-2026-000052",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-01-12T15:36:00+00:00",
+    "body": "Synthetic payment support message 1 for TKT-2026-000052."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000052-002",
+    "ticket_id": "TKT-2026-000052",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-01-12T15:45:00+00:00",
+    "body": "Synthetic payment support message 2 for TKT-2026-000052."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000053-001",
+    "ticket_id": "TKT-2026-000053",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-21T15:09:00+00:00",
+    "body": "Synthetic technical support message 1 for TKT-2026-000053."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000054-001",
+    "ticket_id": "TKT-2026-000054",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-02-10T07:14:00+00:00",
+    "body": "Synthetic technical support message 1 for TKT-2026-000054."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000055-001",
+    "ticket_id": "TKT-2026-000055",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-02-06T16:31:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000055."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000055-002",
+    "ticket_id": "TKT-2026-000055",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "te",
+    "sent_at": "2026-02-06T16:40:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000055."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000055-003",
+    "ticket_id": "TKT-2026-000055",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-02-06T16:54:00+00:00",
+    "body": "Synthetic refund support message 3 for TKT-2026-000055."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000056-001",
+    "ticket_id": "TKT-2026-000056",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-01-08T10:27:00+00:00",
+    "body": "Synthetic technical support message 1 for TKT-2026-000056."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000056-002",
+    "ticket_id": "TKT-2026-000056",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-01-08T10:33:00+00:00",
+    "body": "Synthetic technical support message 2 for TKT-2026-000056."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000057-001",
+    "ticket_id": "TKT-2026-000057",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-01-08T12:14:00+00:00",
+    "body": "Synthetic delivery support message 1 for TKT-2026-000057."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000058-001",
+    "ticket_id": "TKT-2026-000058",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-03-30T04:25:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000058."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000058-002",
+    "ticket_id": "TKT-2026-000058",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-03-30T04:40:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000058."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000059-001",
+    "ticket_id": "TKT-2026-000059",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-20T06:31:00+00:00",
+    "body": "Synthetic delivery support message 1 for TKT-2026-000059."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000059-002",
+    "ticket_id": "TKT-2026-000059",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "es",
+    "sent_at": "2026-02-20T06:34:00+00:00",
+    "body": "Synthetic delivery support message 2 for TKT-2026-000059."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000059-003",
+    "ticket_id": "TKT-2026-000059",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-20T07:18:00+00:00",
+    "body": "Synthetic delivery support message 3 for TKT-2026-000059."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000059-004",
+    "ticket_id": "TKT-2026-000059",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "es",
+    "sent_at": "2026-02-20T07:34:00+00:00",
+    "body": "Synthetic delivery support message 4 for TKT-2026-000059."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000060-001",
+    "ticket_id": "TKT-2026-000060",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-27T09:22:00+00:00",
+    "body": "Synthetic delivery support message 1 for TKT-2026-000060."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000060-002",
+    "ticket_id": "TKT-2026-000060",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "es",
+    "sent_at": "2026-01-27T09:18:00+00:00",
+    "body": "Synthetic delivery support message 2 for TKT-2026-000060."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000061-001",
+    "ticket_id": "TKT-2026-000061",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-03-12T02:04:00+00:00",
+    "body": "Synthetic delivery support message 1 for TKT-2026-000061."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000061-002",
+    "ticket_id": "TKT-2026-000061",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "ta",
+    "sent_at": "2026-03-12T02:37:00+00:00",
+    "body": "Synthetic delivery support message 2 for TKT-2026-000061."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000062-001",
+    "ticket_id": "TKT-2026-000062",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-09T22:29:00+00:00",
+    "body": "Synthetic delivery support message 1 for TKT-2026-000062."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000062-002",
+    "ticket_id": "TKT-2026-000062",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "es",
+    "sent_at": "2026-03-09T22:45:00+00:00",
+    "body": "Synthetic delivery support message 2 for TKT-2026-000062."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000062-003",
+    "ticket_id": "TKT-2026-000062",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-09T22:31:00+00:00",
+    "body": "Synthetic delivery support message 3 for TKT-2026-000062."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000062-004",
+    "ticket_id": "TKT-2026-000062",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "es",
+    "sent_at": "2026-03-09T22:21:00+00:00",
+    "body": "Synthetic delivery support message 4 for TKT-2026-000062."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000062-005",
+    "ticket_id": "TKT-2026-000062",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-09T23:48:00+00:00",
+    "body": "Synthetic delivery support message 5 for TKT-2026-000062."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000062-006",
+    "ticket_id": "TKT-2026-000062",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "es",
+    "sent_at": "2026-03-09T23:37:00+00:00",
+    "body": "Synthetic delivery support message 6 for TKT-2026-000062."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000063-001",
+    "ticket_id": "TKT-2026-000063",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-05T19:37:00+00:00",
+    "body": "Synthetic payment support message 1 for TKT-2026-000063."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000064-001",
+    "ticket_id": "TKT-2026-000064",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-14T23:40:00+00:00",
+    "body": "Synthetic delivery support message 1 for TKT-2026-000064."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000064-002",
+    "ticket_id": "TKT-2026-000064",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "es",
+    "sent_at": "2026-02-14T23:35:00+00:00",
+    "body": "Synthetic delivery support message 2 for TKT-2026-000064."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000064-003",
+    "ticket_id": "TKT-2026-000064",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-15T00:25:00+00:00",
+    "body": "Synthetic delivery support message 3 for TKT-2026-000064."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000065-001",
+    "ticket_id": "TKT-2026-000065",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-02-11T22:34:00+00:00",
+    "body": "Synthetic safety support message 1 for TKT-2026-000065."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000065-002",
+    "ticket_id": "TKT-2026-000065",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "ta",
+    "sent_at": "2026-02-11T22:31:00+00:00",
+    "body": "Synthetic safety support message 2 for TKT-2026-000065."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000066-001",
+    "ticket_id": "TKT-2026-000066",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-03-08T05:57:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000066."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000066-002",
+    "ticket_id": "TKT-2026-000066",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-03-08T06:15:00+00:00",
+    "body": "Synthetic account support message 2 for TKT-2026-000066."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000067-001",
+    "ticket_id": "TKT-2026-000067",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-01-18T06:09:00+00:00",
+    "body": "Synthetic payment support message 1 for TKT-2026-000067."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000067-002",
+    "ticket_id": "TKT-2026-000067",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "ta",
+    "sent_at": "2026-01-18T06:44:00+00:00",
+    "body": "Synthetic payment support message 2 for TKT-2026-000067."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000067-003",
+    "ticket_id": "TKT-2026-000067",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-01-18T06:33:00+00:00",
+    "body": "Synthetic payment support message 3 for TKT-2026-000067."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000067-004",
+    "ticket_id": "TKT-2026-000067",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "ta",
+    "sent_at": "2026-01-18T06:26:00+00:00",
+    "body": "Synthetic payment support message 4 for TKT-2026-000067."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000068-001",
+    "ticket_id": "TKT-2026-000068",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-03-19T18:51:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000068."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000068-002",
+    "ticket_id": "TKT-2026-000068",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-03-19T19:12:00+00:00",
+    "body": "Synthetic account support message 2 for TKT-2026-000068."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000068-003",
+    "ticket_id": "TKT-2026-000068",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-03-19T19:29:00+00:00",
+    "body": "Synthetic account support message 3 for TKT-2026-000068."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000069-001",
+    "ticket_id": "TKT-2026-000069",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-03-16T19:33:00+00:00",
+    "body": "Synthetic payment support message 1 for TKT-2026-000069."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000070-001",
+    "ticket_id": "TKT-2026-000070",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-03-14T15:24:00+00:00",
+    "body": "Synthetic payment support message 1 for TKT-2026-000070."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000070-002",
+    "ticket_id": "TKT-2026-000070",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-03-14T15:15:00+00:00",
+    "body": "Synthetic payment support message 2 for TKT-2026-000070."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000070-003",
+    "ticket_id": "TKT-2026-000070",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-03-14T15:54:00+00:00",
+    "body": "Synthetic payment support message 3 for TKT-2026-000070."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000070-004",
+    "ticket_id": "TKT-2026-000070",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-03-14T16:05:00+00:00",
+    "body": "Synthetic payment support message 4 for TKT-2026-000070."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000070-005",
+    "ticket_id": "TKT-2026-000070",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-03-14T15:39:00+00:00",
+    "body": "Synthetic payment support message 5 for TKT-2026-000070."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000071-001",
+    "ticket_id": "TKT-2026-000071",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-02-07T03:25:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000071."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000071-002",
+    "ticket_id": "TKT-2026-000071",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-02-07T03:26:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000071."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000071-003",
+    "ticket_id": "TKT-2026-000071",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-02-07T03:29:00+00:00",
+    "body": "Synthetic refund support message 3 for TKT-2026-000071."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000071-004",
+    "ticket_id": "TKT-2026-000071",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-02-07T04:30:00+00:00",
+    "body": "Synthetic refund support message 4 for TKT-2026-000071."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000072-001",
+    "ticket_id": "TKT-2026-000072",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-21T22:07:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000072."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000072-002",
+    "ticket_id": "TKT-2026-000072",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-01-21T22:10:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000072."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000072-003",
+    "ticket_id": "TKT-2026-000072",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-21T22:10:00+00:00",
+    "body": "Synthetic refund support message 3 for TKT-2026-000072."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000072-004",
+    "ticket_id": "TKT-2026-000072",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-01-21T22:24:00+00:00",
+    "body": "Synthetic refund support message 4 for TKT-2026-000072."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000072-005",
+    "ticket_id": "TKT-2026-000072",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-21T22:42:00+00:00",
+    "body": "Synthetic refund support message 5 for TKT-2026-000072."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000072-006",
+    "ticket_id": "TKT-2026-000072",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-01-21T23:28:00+00:00",
+    "body": "Synthetic refund support message 6 for TKT-2026-000072."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000072-007",
+    "ticket_id": "TKT-2026-000072",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-21T22:27:00+00:00",
+    "body": "Synthetic refund support message 7 for TKT-2026-000072."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000073-001",
+    "ticket_id": "TKT-2026-000073",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-02T22:29:00+00:00",
+    "body": "Synthetic payment support message 1 for TKT-2026-000073."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000073-002",
+    "ticket_id": "TKT-2026-000073",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-02T22:24:00+00:00",
+    "body": "Synthetic payment support message 2 for TKT-2026-000073."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000073-003",
+    "ticket_id": "TKT-2026-000073",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-02T22:40:00+00:00",
+    "body": "Synthetic payment support message 3 for TKT-2026-000073."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000073-004",
+    "ticket_id": "TKT-2026-000073",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-02T22:38:00+00:00",
+    "body": "Synthetic payment support message 4 for TKT-2026-000073."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000074-001",
+    "ticket_id": "TKT-2026-000074",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-13T03:16:00+00:00",
+    "body": "Synthetic payment support message 1 for TKT-2026-000074."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000074-002",
+    "ticket_id": "TKT-2026-000074",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-13T03:34:00+00:00",
+    "body": "Synthetic payment support message 2 for TKT-2026-000074."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000074-003",
+    "ticket_id": "TKT-2026-000074",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-13T03:23:00+00:00",
+    "body": "Synthetic payment support message 3 for TKT-2026-000074."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000074-004",
+    "ticket_id": "TKT-2026-000074",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-13T03:36:00+00:00",
+    "body": "Synthetic payment support message 4 for TKT-2026-000074."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000075-001",
+    "ticket_id": "TKT-2026-000075",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "ta",
+    "sent_at": "2026-03-17T20:54:00+00:00",
+    "body": "Synthetic payment support message 1 for TKT-2026-000075."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000075-002",
+    "ticket_id": "TKT-2026-000075",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "ta",
+    "sent_at": "2026-03-17T21:14:00+00:00",
+    "body": "Synthetic payment support message 2 for TKT-2026-000075."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000076-001",
+    "ticket_id": "TKT-2026-000076",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-03-04T23:22:00+00:00",
+    "body": "Synthetic technical support message 1 for TKT-2026-000076."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000076-002",
+    "ticket_id": "TKT-2026-000076",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "te",
+    "sent_at": "2026-03-04T23:17:00+00:00",
+    "body": "Synthetic technical support message 2 for TKT-2026-000076."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000076-003",
+    "ticket_id": "TKT-2026-000076",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-03-04T23:35:00+00:00",
+    "body": "Synthetic technical support message 3 for TKT-2026-000076."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000077-001",
+    "ticket_id": "TKT-2026-000077",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-13T06:27:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000077."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000077-002",
+    "ticket_id": "TKT-2026-000077",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-01-13T06:48:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000077."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000077-003",
+    "ticket_id": "TKT-2026-000077",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-13T06:56:00+00:00",
+    "body": "Synthetic refund support message 3 for TKT-2026-000077."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000077-004",
+    "ticket_id": "TKT-2026-000077",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-01-13T07:12:00+00:00",
+    "body": "Synthetic refund support message 4 for TKT-2026-000077."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000078-001",
+    "ticket_id": "TKT-2026-000078",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-01-13T21:43:00+00:00",
+    "body": "Synthetic safety support message 1 for TKT-2026-000078."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000078-002",
+    "ticket_id": "TKT-2026-000078",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-01-13T21:51:00+00:00",
+    "body": "Synthetic safety support message 2 for TKT-2026-000078."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000079-001",
+    "ticket_id": "TKT-2026-000079",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-24T14:40:00+00:00",
+    "body": "Synthetic payment support message 1 for TKT-2026-000079."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000079-002",
+    "ticket_id": "TKT-2026-000079",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-24T14:49:00+00:00",
+    "body": "Synthetic payment support message 2 for TKT-2026-000079."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000079-003",
+    "ticket_id": "TKT-2026-000079",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-24T14:57:00+00:00",
+    "body": "Synthetic payment support message 3 for TKT-2026-000079."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000080-001",
+    "ticket_id": "TKT-2026-000080",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-27T13:22:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000080."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000080-002",
+    "ticket_id": "TKT-2026-000080",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-02-27T13:12:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000080."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000081-001",
+    "ticket_id": "TKT-2026-000081",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-01T23:34:00+00:00",
+    "body": "Synthetic delivery support message 1 for TKT-2026-000081."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000081-002",
+    "ticket_id": "TKT-2026-000081",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-01-01T23:43:00+00:00",
+    "body": "Synthetic delivery support message 2 for TKT-2026-000081."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000082-001",
+    "ticket_id": "TKT-2026-000082",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "hi",
+    "sent_at": "2026-01-14T14:17:00+00:00",
+    "body": "Synthetic delivery support message 1 for TKT-2026-000082."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000082-002",
+    "ticket_id": "TKT-2026-000082",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "hi",
+    "sent_at": "2026-01-14T14:27:00+00:00",
+    "body": "Synthetic delivery support message 2 for TKT-2026-000082."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000083-001",
+    "ticket_id": "TKT-2026-000083",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-06T01:40:00+00:00",
+    "body": "Synthetic technical support message 1 for TKT-2026-000083."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000083-002",
+    "ticket_id": "TKT-2026-000083",
+    "channel": "email",
+    "sender_type": "agent",
+    "language": "es",
+    "sent_at": "2026-02-06T01:42:00+00:00",
+    "body": "Synthetic technical support message 2 for TKT-2026-000083."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000084-001",
+    "ticket_id": "TKT-2026-000084",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-08T16:53:00+00:00",
+    "body": "Synthetic safety support message 1 for TKT-2026-000084."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000084-002",
+    "ticket_id": "TKT-2026-000084",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "es",
+    "sent_at": "2026-03-08T17:22:00+00:00",
+    "body": "Synthetic safety support message 2 for TKT-2026-000084."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000085-001",
+    "ticket_id": "TKT-2026-000085",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-02T22:27:00+00:00",
+    "body": "Synthetic safety support message 1 for TKT-2026-000085."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000085-002",
+    "ticket_id": "TKT-2026-000085",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-02T22:38:00+00:00",
+    "body": "Synthetic safety support message 2 for TKT-2026-000085."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000085-003",
+    "ticket_id": "TKT-2026-000085",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-02T22:37:00+00:00",
+    "body": "Synthetic safety support message 3 for TKT-2026-000085."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000085-004",
+    "ticket_id": "TKT-2026-000085",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-02T22:38:00+00:00",
+    "body": "Synthetic safety support message 4 for TKT-2026-000085."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000085-005",
+    "ticket_id": "TKT-2026-000085",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-01-02T23:25:00+00:00",
+    "body": "Synthetic safety support message 5 for TKT-2026-000085."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000086-001",
+    "ticket_id": "TKT-2026-000086",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-23T20:00:00+00:00",
+    "body": "Synthetic safety support message 1 for TKT-2026-000086."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000086-002",
+    "ticket_id": "TKT-2026-000086",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-23T19:56:00+00:00",
+    "body": "Synthetic safety support message 2 for TKT-2026-000086."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000086-003",
+    "ticket_id": "TKT-2026-000086",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-23T20:06:00+00:00",
+    "body": "Synthetic safety support message 3 for TKT-2026-000086."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000086-004",
+    "ticket_id": "TKT-2026-000086",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-23T19:58:00+00:00",
+    "body": "Synthetic safety support message 4 for TKT-2026-000086."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000087-001",
+    "ticket_id": "TKT-2026-000087",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-04T16:55:00+00:00",
+    "body": "Synthetic safety support message 1 for TKT-2026-000087."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000087-002",
+    "ticket_id": "TKT-2026-000087",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-04T16:45:00+00:00",
+    "body": "Synthetic safety support message 2 for TKT-2026-000087."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000088-001",
+    "ticket_id": "TKT-2026-000088",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-01-10T09:58:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000088."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000088-002",
+    "ticket_id": "TKT-2026-000088",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "te",
+    "sent_at": "2026-01-10T10:19:00+00:00",
+    "body": "Synthetic account support message 2 for TKT-2026-000088."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000088-003",
+    "ticket_id": "TKT-2026-000088",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-01-10T10:03:00+00:00",
+    "body": "Synthetic account support message 3 for TKT-2026-000088."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000089-001",
+    "ticket_id": "TKT-2026-000089",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-01-14T17:21:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000089."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000089-002",
+    "ticket_id": "TKT-2026-000089",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "te",
+    "sent_at": "2026-01-14T17:57:00+00:00",
+    "body": "Synthetic account support message 2 for TKT-2026-000089."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000089-003",
+    "ticket_id": "TKT-2026-000089",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-01-14T18:17:00+00:00",
+    "body": "Synthetic account support message 3 for TKT-2026-000089."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000089-004",
+    "ticket_id": "TKT-2026-000089",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "te",
+    "sent_at": "2026-01-14T18:21:00+00:00",
+    "body": "Synthetic account support message 4 for TKT-2026-000089."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000090-001",
+    "ticket_id": "TKT-2026-000090",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-01T13:40:00+00:00",
+    "body": "Synthetic safety support message 1 for TKT-2026-000090."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000090-002",
+    "ticket_id": "TKT-2026-000090",
+    "channel": "phone",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-01-01T14:07:00+00:00",
+    "body": "Synthetic safety support message 2 for TKT-2026-000090."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000091-001",
+    "ticket_id": "TKT-2026-000091",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-24T04:21:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000091."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000092-001",
+    "ticket_id": "TKT-2026-000092",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-16T13:37:00+00:00",
+    "body": "Synthetic refund support message 1 for TKT-2026-000092."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000092-002",
+    "ticket_id": "TKT-2026-000092",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-16T13:33:00+00:00",
+    "body": "Synthetic refund support message 2 for TKT-2026-000092."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000092-003",
+    "ticket_id": "TKT-2026-000092",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-03-16T14:11:00+00:00",
+    "body": "Synthetic refund support message 3 for TKT-2026-000092."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000093-001",
+    "ticket_id": "TKT-2026-000093",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-08T15:25:00+00:00",
+    "body": "Synthetic technical support message 1 for TKT-2026-000093."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000093-002",
+    "ticket_id": "TKT-2026-000093",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "en",
+    "sent_at": "2026-02-08T15:30:00+00:00",
+    "body": "Synthetic technical support message 2 for TKT-2026-000093."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000094-001",
+    "ticket_id": "TKT-2026-000094",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-03-09T11:14:00+00:00",
+    "body": "Synthetic delivery support message 1 for TKT-2026-000094."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000094-002",
+    "ticket_id": "TKT-2026-000094",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-03-09T11:32:00+00:00",
+    "body": "Synthetic delivery support message 2 for TKT-2026-000094."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000095-001",
+    "ticket_id": "TKT-2026-000095",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-19T08:23:00+00:00",
+    "body": "Synthetic technical support message 1 for TKT-2026-000095."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000095-002",
+    "ticket_id": "TKT-2026-000095",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-19T08:34:00+00:00",
+    "body": "Synthetic technical support message 2 for TKT-2026-000095."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000095-003",
+    "ticket_id": "TKT-2026-000095",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-19T08:37:00+00:00",
+    "body": "Synthetic technical support message 3 for TKT-2026-000095."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000095-004",
+    "ticket_id": "TKT-2026-000095",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-19T09:06:00+00:00",
+    "body": "Synthetic technical support message 4 for TKT-2026-000095."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000096-001",
+    "ticket_id": "TKT-2026-000096",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-02-23T17:41:00+00:00",
+    "body": "Synthetic delivery support message 1 for TKT-2026-000096."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000096-002",
+    "ticket_id": "TKT-2026-000096",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "te",
+    "sent_at": "2026-02-23T18:08:00+00:00",
+    "body": "Synthetic delivery support message 2 for TKT-2026-000096."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000096-003",
+    "ticket_id": "TKT-2026-000096",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "te",
+    "sent_at": "2026-02-23T17:48:00+00:00",
+    "body": "Synthetic delivery support message 3 for TKT-2026-000096."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000096-004",
+    "ticket_id": "TKT-2026-000096",
+    "channel": "chat",
+    "sender_type": "agent",
+    "language": "te",
+    "sent_at": "2026-02-23T18:56:00+00:00",
+    "body": "Synthetic delivery support message 4 for TKT-2026-000096."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000097-001",
+    "ticket_id": "TKT-2026-000097",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-11T04:58:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000097."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000097-002",
+    "ticket_id": "TKT-2026-000097",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-11T05:35:00+00:00",
+    "body": "Synthetic account support message 2 for TKT-2026-000097."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000097-003",
+    "ticket_id": "TKT-2026-000097",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "es",
+    "sent_at": "2026-02-11T05:22:00+00:00",
+    "body": "Synthetic account support message 3 for TKT-2026-000097."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000098-001",
+    "ticket_id": "TKT-2026-000098",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-09T14:30:00+00:00",
+    "body": "Synthetic payment support message 1 for TKT-2026-000098."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000098-002",
+    "ticket_id": "TKT-2026-000098",
+    "channel": "phone",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-09T14:55:00+00:00",
+    "body": "Synthetic payment support message 2 for TKT-2026-000098."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000099-001",
+    "ticket_id": "TKT-2026-000099",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-11T01:03:00+00:00",
+    "body": "Synthetic account support message 1 for TKT-2026-000099."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000099-002",
+    "ticket_id": "TKT-2026-000099",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-11T01:17:00+00:00",
+    "body": "Synthetic account support message 2 for TKT-2026-000099."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000099-003",
+    "ticket_id": "TKT-2026-000099",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-11T00:58:00+00:00",
+    "body": "Synthetic account support message 3 for TKT-2026-000099."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000099-004",
+    "ticket_id": "TKT-2026-000099",
+    "channel": "chat",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-02-11T01:19:00+00:00",
+    "body": "Synthetic account support message 4 for TKT-2026-000099."
+  },
+  {
+    "message_id": "MSG-TKT-2026-000100-001",
+    "ticket_id": "TKT-2026-000100",
+    "channel": "email",
+    "sender_type": "customer",
+    "language": "en",
+    "sent_at": "2026-01-06T14:37:00+00:00",
+    "body": "Synthetic safety support message 1 for TKT-2026-000100."
+  }
+]

@@ -1,0 +1,11 @@
+agent_id,name,skills,languages,available,max_concurrent,shift_start_hour,shift_end_hour
+AGT-000001,Agent 001,account|payment|refund|safety,en|ta|te,true,4,8,18
+AGT-000002,Agent 002,delivery|refund|safety,hi|ta|te,true,8,8,18
+AGT-000003,Agent 003,account|refund|technical,en|hi|te,true,11,8,18
+AGT-000004,Agent 004,delivery|refund|safety|technical,en,true,11,8,18
+AGT-000005,Agent 005,account|delivery|refund|safety,ta,true,12,8,18
+AGT-000006,Agent 006,delivery|technical,es,true,10,8,18
+AGT-000007,Agent 007,account|payment|refund|technical,en|te,true,5,8,18
+AGT-000008,Agent 008,delivery|payment|refund|safety,ta|te,true,11,8,18
+AGT-000009,Agent 009,account|safety,hi,true,7,8,18
+AGT-000010,Agent 010,delivery|payment|safety,es|hi,true,10,8,18

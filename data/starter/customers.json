@@ -1,0 +1,252 @@
+[
+  {
+    "customer_id": "CUS-000001",
+    "language": "te",
+    "created_at": "2026-10-24T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000002",
+    "language": "te",
+    "created_at": "2026-03-30T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000003",
+    "language": "en",
+    "created_at": "2026-05-04T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000004",
+    "language": "hi",
+    "created_at": "2026-05-01T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000005",
+    "language": "en",
+    "created_at": "2026-10-07T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000006",
+    "language": "hi",
+    "created_at": "2026-01-31T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000007",
+    "language": "hi",
+    "created_at": "2026-04-10T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000008",
+    "language": "te",
+    "created_at": "2026-11-24T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000009",
+    "language": "es",
+    "created_at": "2026-02-24T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000010",
+    "language": "hi",
+    "created_at": "2026-03-18T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000011",
+    "language": "es",
+    "created_at": "2026-03-01T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000012",
+    "language": "hi",
+    "created_at": "2026-10-30T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000013",
+    "language": "ta",
+    "created_at": "2026-01-03T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000014",
+    "language": "es",
+    "created_at": "2026-02-28T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000015",
+    "language": "te",
+    "created_at": "2026-03-14T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000016",
+    "language": "es",
+    "created_at": "2026-06-28T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000017",
+    "language": "ta",
+    "created_at": "2026-01-30T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000018",
+    "language": "en",
+    "created_at": "2026-03-17T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000019",
+    "language": "hi",
+    "created_at": "2026-08-23T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000020",
+    "language": "en",
+    "created_at": "2026-02-25T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000021",
+    "language": "es",
+    "created_at": "2026-04-25T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000022",
+    "language": "es",
+    "created_at": "2026-09-20T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000023",
+    "language": "te",
+    "created_at": "2026-02-18T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000024",
+    "language": "hi",
+    "created_at": "2026-08-12T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000025",
+    "language": "es",
+    "created_at": "2026-08-02T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000026",
+    "language": "en",
+    "created_at": "2026-08-07T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000027",
+    "language": "ta",
+    "created_at": "2026-12-30T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000028",
+    "language": "en",
+    "created_at": "2026-03-06T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000029",
+    "language": "ta",
+    "created_at": "2026-09-28T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000030",
+    "language": "hi",
+    "created_at": "2026-01-30T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000031",
+    "language": "en",
+    "created_at": "2026-07-09T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000032",
+    "language": "en",
+    "created_at": "2026-06-02T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000033",
+    "language": "es",
+    "created_at": "2026-04-09T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000034",
+    "language": "en",
+    "created_at": "2026-02-21T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000035",
+    "language": "en",
+    "created_at": "2026-07-19T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000036",
+    "language": "hi",
+    "created_at": "2026-10-19T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000037",
+    "language": "ta",
+    "created_at": "2026-09-03T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000038",
+    "language": "en",
+    "created_at": "2026-09-30T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000039",
+    "language": "en",
+    "created_at": "2026-07-07T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000040",
+    "language": "en",
+    "created_at": "2026-10-31T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000041",
+    "language": "ta",
+    "created_at": "2026-01-03T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000042",
+    "language": "ta",
+    "created_at": "2026-01-19T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000043",
+    "language": "hi",
+    "created_at": "2026-01-15T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000044",
+    "language": "hi",
+    "created_at": "2026-06-05T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000045",
+    "language": "es",
+    "created_at": "2026-09-15T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000046",
+    "language": "es",
+    "created_at": "2026-12-07T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000047",
+    "language": "te",
+    "created_at": "2026-01-22T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000048",
+    "language": "te",
+    "created_at": "2026-08-28T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000049",
+    "language": "en",
+    "created_at": "2026-03-03T00:00:00+00:00"
+  },
+  {
+    "customer_id": "CUS-000050",
+    "language": "en",
+    "created_at": "2026-05-30T00:00:00+00:00"
+  }
+]

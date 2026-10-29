@@ -1,0 +1,7 @@
+queue_id,queue_name,intent_name
+QUE-PAYMENT,Payment Queue,payment
+QUE-DELIVERY,Delivery Queue,delivery
+QUE-REFUND,Refund Queue,refund
+QUE-TECHNICAL,Technical Queue,technical
+QUE-ACCOUNT,Account Queue,account
+QUE-SAFETY,Safety Queue,safety

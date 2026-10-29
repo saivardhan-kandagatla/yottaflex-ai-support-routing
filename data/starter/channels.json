@@ -1,0 +1,14 @@
+[
+  {
+    "channel_id": "CHN-email",
+    "channel_name": "email"
+  },
+  {
+    "channel_id": "CHN-chat",
+    "channel_name": "chat"
+  },
+  {
+    "channel_id": "CHN-phone",
+    "channel_name": "phone"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "intent_id": "INT-payment",
+    "intent_name": "payment"
+  },
+  {
+    "intent_id": "INT-delivery",
+    "intent_name": "delivery"
+  },
+  {
+    "intent_id": "INT-refund",
+    "intent_name": "refund"
+  },
+  {
+    "intent_id": "INT-technical",
+    "intent_name": "technical"
+  },
+  {
+    "intent_id": "INT-account",
+    "intent_name": "account"
+  },
+  {
+    "intent_id": "INT-safety",
+    "intent_name": "safety"
+  }
+]

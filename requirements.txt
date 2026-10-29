@@ -1,0 +1,2 @@
+# Core generator and validator use only Python's standard library.
+# Optional testing dependency: pytest>=8.0
